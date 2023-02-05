@@ -1,0 +1,1 @@
+print("Hello World^-^ get ready to be destroyed<3")
